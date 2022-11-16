@@ -10,7 +10,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 - Leaflet Map 
 https://jrieker2.github.io/Juliannas-DC-spreadsheet/
 - Google Sheets template 
-https://docs.google.com/spreadsheets/d/1ET1Ob5HTu7LLNYRFUUiFQPWGCVgMyjTd4EJdunwad0k/edit#gid=0
+[https://docs.google.com/spreadsheets/d/1ET1Ob5HTu7LLNYRFUUiFQPWGCVgMyjTd4EJdunwad0k/edit#gid=0](https://docs.google.com/spreadsheets/d/1ET1Ob5HTu7LLNYRFUUiFQPWGCVgMyjTd4EJdunwad0k/edit#gid=0)
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
